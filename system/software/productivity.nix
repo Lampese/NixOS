@@ -2,8 +2,8 @@
 
 {
   environment.systemPackages = with pkgs; [
-    vlc
-    obs-studio
-    netease-cloud-music-gtk
+    typora
+    p3x-onenote
+    onlyoffice-bin
   ];
 }
