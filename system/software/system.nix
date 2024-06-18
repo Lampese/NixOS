@@ -22,6 +22,7 @@
     tree
     file
     unzip
+    p7zip
     fastfetch
     nixpkgs-fmt
     nix-output-monitor
