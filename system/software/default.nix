@@ -8,5 +8,6 @@
     ./media.nix
     ./network.nix
     ./develop.nix
+    ./productivity.nix
   ];
 }
