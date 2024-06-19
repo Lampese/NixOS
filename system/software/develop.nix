@@ -2,6 +2,7 @@
 
 {
   environment.systemPackages = with pkgs;[
+    gcc
     deno
     nodejs
     python3
