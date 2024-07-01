@@ -5,5 +5,6 @@
     vim
     gedit
     vscode-fhs
+    zed-editor
   ];
 }
