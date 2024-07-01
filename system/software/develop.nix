@@ -5,6 +5,7 @@
     gcc
     gdb
     deno
+    clang
     nodejs
     python3
     geogebra6
