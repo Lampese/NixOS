@@ -6,6 +6,7 @@
     git
     wget
     curl
+    feishu
     v2raya
     microsoft-edge-dev
   ];

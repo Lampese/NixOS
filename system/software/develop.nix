@@ -6,6 +6,7 @@
     gdb
     deno
     clang
+    rustup
     nodejs
     python3
     geogebra6
