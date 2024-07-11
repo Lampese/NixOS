@@ -12,6 +12,5 @@
     geogebra6
     typescript
     github-desktop
-    nodePackages.npm
   ];
 }
