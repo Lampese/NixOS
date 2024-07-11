@@ -12,6 +12,6 @@
     geogebra6
     typescript
     github-desktop
-    jetbrains.rust-rover
+    nodePackages.npm
   ];
 }
