@@ -18,13 +18,19 @@
       })
     )
     xz
-    zip 
+    zip
     tree
     file
     unzip
     p7zip
+    xdg-utils
     fastfetch
     nixpkgs-fmt
+    appimage-run
     nix-output-monitor
   ];
+  xdg.portal = {
+    enable = true;
+    xdgOpenUsePortal = true;
+  };
 }
