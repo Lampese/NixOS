@@ -14,5 +14,6 @@
     typescript
     github-desktop
     wasm-bindgen-cli
+    nodePackages.pnpm
   ];
 }
