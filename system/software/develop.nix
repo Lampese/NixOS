@@ -13,5 +13,6 @@
     geogebra6
     typescript
     github-desktop
+    wasm-bindgen-cli
   ];
 }
