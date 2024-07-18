@@ -27,6 +27,7 @@
     fastfetch
     nixpkgs-fmt
     appimage-run
+    smartmontools
     nix-output-monitor
   ];
   xdg.portal = {

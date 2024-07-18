@@ -5,6 +5,7 @@
     gcc
     gdb
     deno
+    tokei
     clang
     rustup
     nodejs

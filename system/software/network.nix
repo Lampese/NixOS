@@ -8,6 +8,7 @@
     curl
     feishu
     v2raya
+    thunderbird
     microsoft-edge-dev
   ];
 }
