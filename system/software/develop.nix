@@ -11,7 +11,6 @@
     nodejs
     python3
     binaryen
-    geogebra6
     typescript
     github-desktop
     wasm-bindgen-cli
